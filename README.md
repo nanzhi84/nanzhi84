@@ -13,7 +13,7 @@
 
 ## What I'm building
 
-- **[shuying · Cutagent](https://github.com/nanzhi84/cutagent-genesis)** — a *Case-first* digital-human short-video production system. It runs a real **TTS → ASR → lip-sync → render** pipeline on a Temporal runtime, with strongly-typed contracts across every boundary, so a single creator can take an idea to a finished talking-head video end to end.
+- **[Shuying · Cutagent](https://github.com/nanzhi84/cutagent-genesis)** — a *Case-first* digital-human short-video production system. It runs a real **TTS → ASR → lip-sync → render** pipeline on a Temporal runtime, with strongly-typed contracts across every boundary, so a single creator can take an idea to a finished talking-head video end to end.
 - **[LiLink](https://github.com/LiLink-Campus/LiLink)** — a zone-limited campus matchmaking platform (NestJS + Next.js, TypeScript). Students fill in a psychology questionnaire and get **one algorithm-explained match each week** — a weekly reveal, not an endless swipe feed.
 - **Open-source dev tooling** — [`harness-sync`](https://github.com/nanzhi84/harness-sync) carries your Claude Code + Codex memory, skills and config losslessly across machines; [`shipping-with-codex`](https://github.com/nanzhi84/shipping-with-codex) is a Claude × Codex autonomous-delivery workflow that drives a task to a clean PR.
 
