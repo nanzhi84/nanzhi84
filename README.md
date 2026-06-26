@@ -6,10 +6,10 @@
 
 ## About
 
-- 🧠 &nbsp;**AI undergrad** based in Beijing, focused on turning AI into products people actually use.
+- 🧠 &nbsp;**AI undergrad at BUPT (Beijing University of Posts and Telecommunications)**, focused on turning AI into products people actually use.
 - 🤖 &nbsp;I more or less live inside **Claude Code × Codex** agentic workflows, and I open-source most of the tooling I build along the way.
 - 🚀 &nbsp;I like shipping end-to-end: from the model and the pipeline down to the UI a real user clicks.
-- 🌐 &nbsp;Most curious about **AI + social** and how far autonomous agents can take a one-person team.
+- 🌐 &nbsp;Most curious about **AI + video editing** and how editing agents can reshape creative production.
 
 ## What I'm building
 
