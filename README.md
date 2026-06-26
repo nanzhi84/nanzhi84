@@ -17,6 +17,8 @@
 - **[LiLink](https://github.com/LiLink-Campus/LiLink)** — a zone-limited campus matchmaking platform (NestJS + Next.js, TypeScript). Students fill in a psychology questionnaire and get **one algorithm-explained match each week** — a weekly reveal, not an endless swipe feed.
 - **Open-source dev tooling** — [`harness-sync`](https://github.com/nanzhi84/harness-sync) carries your Claude Code + Codex memory, skills and config losslessly across machines; [`shipping-with-codex`](https://github.com/nanzhi84/shipping-with-codex) is a Claude × Codex autonomous-delivery workflow that drives a task to a clean PR.
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nanzhi84&show_icons=true&show=reviews&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=9BE000&icon_color=34D058&text_color=C9D1D9&ring_color=9BE000" alt="GitHub stats" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nanzhi84&show_icons=true&show=reviews&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=9BE000&icon_color=34D058&text_color=C9D1D9&ring_color=9BE000" alt="GitHub stats" />
+</p>
