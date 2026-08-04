@@ -20,8 +20,8 @@
 ### [Rushes](https://github.com/nanzhi84/Rushes) · conversational video editing Agent
 A local-first editing agent for creators who know the cut they want but find pro NLEs hard to use. Import footage on your machine, let the agent understand the picture, then edit through chat (cut lines, remove breaths, place B-roll) and preview before export, with a live stream of reasoning and tool calls so every change stays inspectable.
 
-### [CutFlow](https://github.com/nanzhi84/CutFlow) · B2B AI short-video delivery
-A Case-first digital-human production platform for local merchants who need steady Douyin content, not one-off demos. It runs a full pipeline from script and TTS through media planning, timeline, lip-sync, render, and publish pack, behind a unified gateway over multiple AI capabilities and providers, with per-call cost tracking and resume-from-hash so delivery stays operable at scale.
+### [CutFlow](https://github.com/nanzhi84/CutFlow) · AI short-video delivery for merchants
+A Case-first digital-human production platform that helps local merchants and service providers keep shipping Douyin e-commerce videos, not one-off demos. It runs a full pipeline from script and TTS through media planning, timeline, lip-sync, render, and publish pack, behind a unified gateway over multiple AI capabilities and providers, with per-call cost tracking and resume-from-hash so delivery stays operable at scale.
 
 ### [LiLink](https://github.com/LiLink-Campus/LiLink) · campus matching social · [lilink.top](https://lilink.top)
 A low-pressure campus matching product built around weekly signup and reveal instead of endless swipe. Students clear a school-email gate (invite codes for outsiders), get algorithm-explained matches, and icebreak in a slower social rhythm; shipped as a production NestJS + Next.js system with matching, mail, moderation, and growth loops.
