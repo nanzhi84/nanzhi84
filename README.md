@@ -10,7 +10,7 @@
 
 ## About
 
-- 🧠 **AI undergrad at BUPT** (GPA 3.85 / 4.00 · top 3 / 83); I ship products across insight, MVP, build, validate, and operate.
+- 🧠 **AI undergrad at BUPT**; I ship products across insight, MVP, build, validate, and operate.
 - 🎬 Focused on **AI + video production**: conversational editing agents and merchant digital-human delivery.
 - 🤖 Daily driver: **Claude Code × Codex** workflows for end-to-end product engineering.
 - 🚀 Prefer systems that are observable, cost-aware, and usable by real customers, not demos.
