@@ -20,29 +20,14 @@
 ### [Rushes](https://github.com/nanzhi84/Rushes) · conversational video editing Agent
 Local-first editing agent for creators who know the cut they want but struggle with pro NLEs.
 
-- Import → understand footage → chat-driven edits → preview → export, with frame-level timelines
-- High-level semantic tools (cut lines / breath gaps / B-roll) behind a strict policy gate — models never touch raw paths or shell commands
-- Live event stream for reasoning, tool calls, and progress, so edits stay inspectable instead of black-box
-
 ### [CutFlow](https://github.com/nanzhi84/CutFlow) · B2B AI short-video delivery
 Case-first digital-human production platform for local merchants who need steady Douyin content.
-
-- Shipped a commercial loop for merchant accounts (~¥15k / month revenue while operating)
-- Designed an 18-node production pipeline: script → TTS → media plan → timeline → lip-sync → render → publish pack
-- Unified gateway over 8 AI capabilities / 11 provider plugins, with per-call cost tracking, budget kill-switches, and resume-from-hash for reusable artifacts
 
 ### [LiLink](https://github.com/LiLink-Campus/LiLink) · campus matching social · [lilink.top](https://lilink.top)
 Slow, low-pressure weekly matching for university students — not endless swipe.
 
-- Weekly signup → reveal → icebreak flow; school-email gate + invite codes for outsiders
-- 309+ registered users, 87% questionnaire completion; 337 matches across 8 cycles at 65.9% match rate
-- Interpretable matcher: 8-dim hard constraints + maximum-weight matching + retention-aware priorities
-
 ### [RMGAP](https://github.com/nanzhi84/RMGAP) · reward-model generalization benchmark · [arXiv:2605.01831](https://arxiv.org/abs/2605.01831)
 First-author benchmark for how reward models generalize across diverse user preferences.
-
-- Four real scenarios (Chat / Writing / Reasoning / Safety); 1,097 instances · 4,388 replies · 13,164 prompts
-- Evaluated 24 model configs (7B–685B); best Best-of-N accuracy only **49.27%** — scale alone does not fix preference generalization
 
 ## GitHub Stats
 
