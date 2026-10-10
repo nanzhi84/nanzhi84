@@ -1,7 +1,3 @@
-# Hi, I'm Yoryon 👋
-
-[yoryon.com](https://yoryon.com/) · [Email](mailto:zhouyangyang@bupt.edu.cn)
-
 ## About
 
 - On a leave of absence in my third year of university.
