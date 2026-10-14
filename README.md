@@ -3,11 +3,6 @@
 - On a leave of absence in my third year of university.
 - Currently in my first AI product management internship.
 
-## Featured projects
-
-- **[SEAL](https://github.com/nanzhi84/SEAL)** — Continuous data collection, source archiving, and structured extraction from diverse sources.
-- **[LiLink](https://github.com/LiLink-Campus/LiLink)** — A campus social platform built around weekly matching.
-
 ## GitHub Stats
 
 <p align="center">
